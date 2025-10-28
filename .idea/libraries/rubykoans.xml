@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rubykoans">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ruby_koans/download/rubykoans.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
